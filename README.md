@@ -1,3 +1,5 @@
 ### Hi, I'm Jan-Ole! 👋
 
-📫 Reach me via [e-mail](mailto:jan-ole.koslik@uni-bielefeld.de)
+I'm a student of Statistical Science and I love exploring statistics and data science topics.
+
+📫 If you like, you can reach me via [e-mail](mailto:jan-ole.koslik@uni-bielefeld.de).
